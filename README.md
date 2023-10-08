@@ -1,9 +1,11 @@
-# Cours de python
+# Machine Learning
 
-Bienvenue dans ce cours consacré au Machine Learning (ML).
+Welcome to this machine learning course.
 
-Ce "repository" contient un ensemble de fichiers .ipynb (lisibles avec Jupyter Notebook / Lab ou bien directement via github), ainsi que des images et des fichiers annexes, destiné à l'apprentissage du Machine Learning en langage Python pour des personnes ayant déjà des bases en programmation. N'hésitez pas à me suggérer des améliorations ainsi qu'à corriger les éventuelles erreurs et typos qui s'y trouveraient. Ce travail est sous licence [Creative Commons BY SA NC](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), ce qui signifie que vous pouvez le réutiliser, le modifier et le partager à votre guise, cependant vous avez l'obligation de mentionner l'auteur, de repartager votre travail sous cette même licence et de ne pas en faire un usage commercial.
+This repository contains a set of .ipynb files (readable with Jupyter Notebook / Lab or directly via github), as well as images and additional files. You must have some experience in python before starting this course.
 
-Toutes les images incluses dans ce cours sont sous une licence permettant la reproduction sans autorisation préalable. Sauf mention contraire celles-ci sont toutes issues de Wikipédia (ou wikimédia).
+Don't hesitate to suggest improvements and correct any errors or typos. This work is licensed under [Creative Commons BY SA NC](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode), which means that you can reuse, modify and share it as you wish, but you must credit the author, share your work under the same licence and not use it for commercial purposes.
 
-## Niveau 1 - Introduction aux fondements du machine learning avec Python
+All the images included in this course are licensed for reproduction without prior authorisation. Unless otherwise stated, they are all from Wikipedia (or wikimedia).
+
+Virgile.
